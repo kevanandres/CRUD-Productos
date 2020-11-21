@@ -1,7 +1,8 @@
 # CRUD-Productos
- CRUD de productos realizado en SQLite en lenguaje Kotlin
+CRUD de productos realizado en SQLite en lenguaje Kotlin
  
 ---Dependencia que seran agregadas en Gradle---
+
 apply plugin: 'kotlin-kapt'
 
 def room_version = "2.2.5"
