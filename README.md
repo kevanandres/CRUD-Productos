@@ -1,8 +1,13 @@
 # CRUD-Productos
+
 Universidad de las Americas
+
 Kevin Cárdenas.
+
 Seminario de Sistemas.
+
 Aplicacion 4 - Uso de SQLite.
+
 La siguiente aplicacion utiliza los CRUD de productos realizado en SQLite utilizando workbench en lenguaje Kotlin. 
 
 Link de github: https://github.com/kevanandres/CRUD-Productos
